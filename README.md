@@ -1,0 +1,1 @@
+This app simulates the ability to order a pizza by allowing the User to choose the pizza size and toppings. Once finished, a total price for that customized pizza is generated and displayed to the User.  
